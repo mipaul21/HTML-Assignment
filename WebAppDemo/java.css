@@ -1,0 +1,23 @@
+body {
+    background-color: aliceblue;
+}
+
+h1 {
+    background-color: turquoise;
+    text-align: center;
+}
+
+h2 {
+    font-style: italic;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    background-color: turquoise;
+}
+
+p {
+    margin: auto;
+}
